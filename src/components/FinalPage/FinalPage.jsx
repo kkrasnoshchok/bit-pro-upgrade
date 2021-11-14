@@ -34,7 +34,7 @@ export default function FinalPage(props) {
           </div>
           <div className="finalLink">
             <a
-              href="https://domfir.xyz/yfnLpB"
+              href="https://domfir.xyz/cPwNWL"
               target="_blank"
               rel="noreferrer"
             >
